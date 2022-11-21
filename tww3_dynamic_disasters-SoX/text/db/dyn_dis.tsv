@@ -1,0 +1,240 @@
+key	text	tooltip
+#Loc PackedFile;1;text/db/dyn_dis.loc		
+incidents_localised_title_dyn_dis_aztec_invasion_stage_2_trigger	The Enactment of the Great Plan	true
+incidents_localised_title_dyn_dis_aztec_invasion_stage_1_trigger	The Silence of the Southern Seas	true
+incidents_localised_title_dyn_dis_aztec_invasion_early_warning	Tremors from the Jungle	true
+incidents_localised_description_dyn_dis_aztec_invasion_stage_2_trigger	Across the whole world, a message has been heard. \\n\\n"The Great Plan has been understood. None of you are part of it."\\n\\nThe invasion has begun.	true
+incidents_localised_description_dyn_dis_aztec_invasion_early_warning	On the dense jungles of Lustria, tremors began. And they haven't stop. Something is happening on Lustria... Prepare for the worst.	true
+incidents_localised_description_dyn_dis_aztec_invasion_stage_1_trigger	Ships sailing through the southern seas are dissapearing without a trace. First tremors, then this... I'm telling you, it's the end of the world.	true
+incidents_button_text_dyn_dis_aztec_invasion_stage_2_trigger	They're coming!	true
+incidents_button_text_dyn_dis_aztec_invasion_stage_1_trigger	Increase the port guard, just in case.	true
+effect_bundles_localised_description_dyn_dis_aztec_invasion_early_warning	After the recent tremors, people has leave the ports in case a giant wave comes...	true
+effect_bundles_localised_description_dyn_dis_aztec_invasion_stage_1_trigger	These dissapearances are driving sailors mad....	true
+effect_bundles_localised_description_dyn_dis_aztec_invasion_stage_2_trigger	Run! Run away from the sea!	true
+effect_bundles_localised_title_dyn_dis_aztec_invasion_early_warning	Tremors from the Jungle	true
+effect_bundles_localised_title_dyn_dis_aztec_invasion_stage_1_trigger	The Silence of the Southern Seas	true
+effect_bundles_localised_title_dyn_dis_aztec_invasion_stage_2_trigger	The Enactment of the Great Plan	true
+diplomacy_strings_string_personality_desc_short_lizardmen_aztec_invasion	Enactor of the Great Plan	true
+diplomacy_strings_string_personality_desc_long_lizardmen_aztec_invasion	It will enact the Great Plan of the Old Ones. Even if it means to destroy all other races.	true
+mct_dyn_dis_mod_title	Dynamic Disasters	true
+mct_dyn_dis_mod_desc	A flexible mod that generates disasters through out the campaign, to make things more interesting.	true
+mct_dyn_dis_enable	Enable Dynamic Disasters	true
+mct_dyn_dis_enable_tooltip	Enable/Disable the whole mod. \\n\\nSafe to disable mid-campaign, but on-going disasters will still finish.	true
+mct_dyn_dis_aztec_invasion_enable	Enable "Enactment of the Great Plan" disaster	true
+mct_dyn_dis_aztec_invasion_enable_tooltip	Enable/Disable the "Enactment of the Great Plan" disaster.\\n\\nThe Slann of Lustria have finally understood the Great Plan. And they plan to Enact it.\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_mod_config	1.Global Config	true
+mct_dyn_dis_disasters_config	2.Disaster Specific Config	true
+mct_dyn_dis_min_turn_value	Minimum Turn	true
+mct_dyn_dis_difficulty_mod	Difficulty Modifier	true
+mct_dyn_dis_min_turn_value_tooltip	Minimum turn required for this disaster to trigger.	true
+mct_dyn_dis_difficulty_mod_tooltip	Difficulty modifier applied to this disaster.	true
+mct_dyn_dis_grudge_too_far_enable	Enable "A Grudge Too Far" disaster (Vanilla)	true
+mct_dyn_dis_grudge_too_far_enable_tooltip	Enable/Disable the "A Grudge Too Far" disaster (Vanilla). \\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_pyramid_of_nagash_enable	Enable "Pyramid of Nagash" disaster (Vanilla)	true
+mct_dyn_dis_pyramid_of_nagash_enable_tooltip	Enable/Disable the "Pyramid of Nagash" disaster (Vanilla). \\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_vampires_rise_enable	Enable "Vampire's Rise" disaster (Vanilla)	true
+mct_dyn_dis_vampires_rise_enable_tooltip	Enable/Disable the "Vampire's Rise" disaster (Vanilla). \\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_waaagh_enable	Enable "Da Biggest Waaagh" disaster (Vanilla)	true
+mct_dyn_dis_waaagh_enable_tooltip	Enable/Disable the "Da Biggest Waaagh" disaster (Vanilla). \\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_wild_hunt_enable	Enable "The Wild Hunt" disaster (Vanilla)	true
+mct_dyn_dis_chaos_invasion_enable_tooltip	Enable/Disable the "Chaos Invasion" disaster. \\n\\nChaos rises on the north. Daemons roam the land, and corruptions spreads in the wind. Would you be able to turn the tide and save the world?\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+mct_dyn_dis_raiding_parties_enable	Enable "Raiding Parties" disaster	true
+mct_dyn_dis_raiding_parties_enable_tooltip	Enable/Disable the "Raiding Parties" disaster. \\n\\nThe seas around the world are plagued with Dark Elf Slavers, Norscan Raiders and Vampires from the Deep. Just... don't attract their attention.\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+incidents_localised_title_fro_dyn_dis_raiding_parties_warning	Black and Tattered Sails	true
+incidents_localised_description_fro_dyn_dis_raiding_parties_warning	Black and tattered sails have been spotted on the horizon. We don't know yet where will they attack. Prepare yourself.	true
+incidents_localised_title_fro_dyn_dis_raiding_parties_trigger	Pirates!	true
+incidents_localised_description_fro_dyn_dis_raiding_parties_trigger	Pirates have started raiding the coast of the world. Good luck to the poor devils that atracted their attention...	true
+incidents_button_text_fro_dyn_dis_raiding_parties_warning	Beware of the seas.	true
+incidents_button_text_fro_dyn_dis_raiding_parties_trigger	They're coming!	true
+mct_dyn_dis_chianchi_assault_enable	Enable "Chi'an Chi Assault" disaster	true
+mct_dyn_dis_chianchi_assault_enable_tooltip	Enable/Disable the "Chi'an Chi Assault" disaster.\\n\\nChi'an Chi is always plotting and scheming beyond the Great Bastion. Make sure the Great Bastion doesn't fall, or we may find out what is he scheming...\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+incidents_localised_title_fro_dyn_dis_chianchi_assault_warning	Chi'an Chi's gaze is upon them!	true
+incidents_localised_title_fro_dyn_dis_chianchi_assault_wall_assault_trigger	Chi'an Chi has send reinforcements!	true
+incidents_localised_title_fro_dyn_dis_chianchi_assault_daemonic_invasion_trigger	Chi'an Chi's invasion has begun!	true
+incidents_localised_title_fro_dyn_dis_chianchi_assault_finish_before_assault	The Great Bastion stands strong!	true
+incidents_localised_description_fro_dyn_dis_chianchi_assault_warning	Chi'an Chi is watching with interest the Great Kurgan horde that approaches the Great Bastion. Why? What twisted scheme is he planning now?	true
+incidents_localised_description_fro_dyn_dis_chianchi_assault_wall_assault_trigger	Chi'an Chi has send reinforcements to the Great Kurgan horde attacking the Great Bastion! The bastion must not fall!	true
+incidents_localised_description_fro_dyn_dis_chianchi_assault_daemonic_invasion_trigger	The Great Bastion has been breached! Send messengers to all the corners of Grand Cathay! We need to rebuild it soon, or the hordes of Chi'an Chi will flood our lands!	true
+incidents_localised_description_fro_dyn_dis_chianchi_assault_finish_before_assault	The Great Bastion has resisted the attack and the Chaos Hordes have been repelled... but was this part of Chi'an Chi's plan?	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_1_warning	Morrslieb is... growing?	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_1_trigger	The Under-Empire strikes back!	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_2_trigger	The Empires under attack!	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_3_trigger	The Great Lustrian War has begun!	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_4_trigger	The Karaz Ankor besieged!	true
+incidents_localised_title_fro_dyn_dis_great_uprising_stage_5_trigger	Karaz-a-Karak besieged!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_1_warning	Scholars all around the world are perplex. For the first time in recorded history, Morrslieb has grown in size. Nobody knows why.... yet.	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_1_trigger	As news of hordes of Skaven (they do exists!) running wild over Estalia and Tilea reached us, we found new information: Morrslieb is not bigger, is closer! And it's already affecting the winds of magic all around the world!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_2_trigger	The Skaven are a secret no more! Hordes are pouring into the Empire, the northern coast of Arabia, and even the hearthlands of Grand Cathay!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_3_trigger	The Great Trans-oceanic Intercontinental Tunnels have been repaired. The Skaven hordes have arrived to Lustria. The Great Lustrian War has begun!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_4_trigger	The Karaz Ankor, the great network of dwarven Karaks spanning across the whole old World, is under siege by all sides by hordes of Skaven!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_stage_5_trigger	Karaz-a-Karak, the ancestral home of the Dawi, is under siege by hordes and hordes of Skaven! May this be the end of the Dawi?	true
+mct_dyn_dis_the_great_uprising_enable	Enable "The Great Ascendancy (legacy)" disaster	true
+mct_dyn_dis_the_great_uprising_enable_tooltip	Enable/Disable the "The Great Ascendancy" disaster.\\n\\nThirteen times thirteen passes of the Chaos moon I will give you. Thirteen times thirteen moons I will wait. Go to your legions and your workshops! Bring me victory. Bring me dominance over this mortal realm! You must be as one, work as one, as single-minded as a swarm pouring from a sewer-pipe -- all rats scurry-flood in same direction. Only then will you inherit the ruins of this world, only then will you rule. Thirteen times thirteen moons! Fail, and all will suffer the fate of the seer.\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+diplomacy_strings_string_personality_desc_short_skaven_great_uprising	The Vermintide	true
+diplomacy_strings_string_personality_desc_long_skaven_great_uprising	It comes from the deepest holes of the world, to burn the surface on the name of the Horned Rat.	true
+effect_bundles_localised_description_fro_dyn_dis_great_uprising_global_effects	Morrslieb, The Green Moon, is closer than ever, nobody knows why. But the effects of being so close to that accursed moon are already showing around the world.	true
+effect_bundles_localised_title_fro_dyn_dis_great_uprising_global_effects	The Green Shine of Morrslieb	true
+effects_description_fro_dyn_dis_skaven_corruption_mapwide	Skaven corruption: %+n	true
+effects_description_fro_dyn_dis_storm_of_magic_all_factions	Possibility of Storms of Magic across the whole world.	true
+incidents_localised_title_fro_dyn_dis_great_uprising_finish_before_stage_1	The Skaven menace is no more!	true
+incidents_localised_title_fro_dyn_dis_great_uprising_finish	Morrslieb recedes!	true
+incidents_localised_description_fro_dyn_dis_great_uprising_finish_before_stage_1	Morrslieb seems to have gone back to its normal size. It seems we will never know what caused such phenomenom.	true
+incidents_localised_description_fro_dyn_dis_great_uprising_finish	After all that destruction, Morrslieb has returned to its natural orbit.	true
+mct_dyn_dis_max_simul	Max Concurrent Endgames	true
+mct_dyn_dis_max_simul_tooltip	Maximum amount of concurrent endgame disasters that can be run at the same time.	true
+incidents_localised_title_fro_dyn_dis_raiding_parties_early_end	Bless Manaan!	true
+incidents_localised_description_fro_dyn_dis_raiding_parties_early_end	Either by the blessing of Manaan or by sheer luck, a storm unleashed its power upon the Pirate Fleet just as they were prepraring to attack. We can rest... for now.	true
+mct_dyn_dis_debug	Enable Debug Mode	true
+mct_dyn_dis_debug_tooltip	Enable/Disable debug mode.\\n\\nIn debug mode, all disasters trigger instantly, and all timers between warnings/phases/invasions/repetitions are reduced to 1 turn. Only affects disasters that support it.	true
+mct_dyn_dis_max_turn_value	Maximum turn	true
+mct_dyn_dis_max_turn_value_tooltip	Maximum turn for this disaster to trigger. If the disaster has not yet triggered when reaching this turn, it'll trigger if none of the requeriments are unfulfilled. \\nSet to 0 to allow the disaster to trigger normally based on its requeriments.	true
+mct_dyn_dis_disable_vanilla_endgames	Disable Vanilla Endgames	true
+mct_dyn_dis_disable_vanilla_endgames_tooltip	NOTE: This may cause bugs if switched on and off in the middle of a campaign! And switching vanilla endgames on again requires a save/reload to take full effect. \\n\\nThis setting toggles the vanilla endgame logic on and off. If you uncheck it, vanilla disasters may trigger twice, once by the endgames logic, and once by this mod.	true
+effects_description_fro_dyn_dis_chaos_corruption_mapwide	Chaos corruption: %+n	true
+effect_bundles_localised_title_fro_dyn_dis_chaos_invasion_global_effects	Flow of the Polar Gates	true
+missions_localised_description_dyn_dis_grudge_too_far_we_ran_out_of_book_1	After thousands of years, the Dwarven holds are ready. The long lost holds will be retaken! The book will be empty of Grudges!	true
+missions_localised_title_dyn_dis_grudge_too_far_we_ran_out_of_book_1	The End of an Era	true
+missions_localised_description_dyn_dis_grudge_too_far_we_ran_out_of_book_2	The Dwarfs have declared war onto the whole world! Defeat them and make the incredible famed wealth of the Karaz-Ankor yours!	true
+missions_localised_title_dyn_dis_grudge_too_far_we_ran_out_of_book_2	The Wealth of the Karaz-Ankor	true
+missions_localised_title_dyn_dis_chaos_invasion_endtimes_unfolding_1	End Times Unfolding	true
+missions_localised_description_dyn_dis_chaos_invasion_endtimes_unfolding_1	The Chaos Gods have made their move. Now... make yours.	true
+missions_localised_description_dyn_dis_aztec_invasion_d_day_1	The Slanns of Lustria have finally deciphered the Great Plan of the Old Gods. And you're not on it.	true
+missions_localised_title_dyn_dis_aztec_invasion_d_day_1	Breaking of the Great Plan	true
+missions_localised_title_dyn_dis_pyramid_of_nagash_guess_whos_back_1	Assault the Black Pyramid!	true
+missions_localised_description_dyn_dis_pyramid_of_nagash_guess_whos_back_1	The Pyramid of Nagash must be taken away from their current occupiers, of the world will be turned into a land of dead.	true
+missions_localised_description_dyn_dis_pyramid_of_nagash_guess_whos_back_2	The Black Pyramid of Nagash has been awaken! Kill the beings performing that horrible ritual before dead covers the world!	true
+missions_localised_title_dyn_dis_pyramid_of_nagash_guess_whos_back_2	The End of the Great Necromancer	true
+missions_localised_title_dyn_dis_vampires_rise_planet_of_the_dead_1	Give Rest to the Dead	true
+missions_localised_description_dyn_dis_vampires_rise_planet_of_the_dead_1	Death and decay taints the Winds of Magic. Will you leave it stay like that, or will you resist the Tide of Death?	true
+missions_localised_description_dyn_dis_waaagh_da_biggest_and_badest_waaagh_1	The Greenskin Hordes have assembled the bigger waaaghs ever seen since time immemorial. Would you be able to resist the Green Tide?	true
+missions_localised_title_dyn_dis_waaagh_da_biggest_and_badest_waaagh_1	The Biggest and Badest Waaagh!	true
+missions_localised_title_dyn_dis_wild_hunt_and_so_the_wild_hunt_begun_1	The Hunt for the Wild Hunt	true
+missions_localised_description_dyn_dis_wild_hunt_and_so_the_wild_hunt_begun_1	For ages, Orion and his Wild Hunt have terrified the forces of the Old World. It's time the Hunters become the hunted.	true
+missions_localised_title_dyn_dis_wild_hunt_and_so_the_wild_hunt_begun_2	Burn the Oak Tree!	true
+missions_localised_description_dyn_dis_wild_hunt_and_so_the_wild_hunt_begun_2	And incinerate all that is Amber!	true
+incidents_localised_title_dyn_dis_grudge_too_far_early_end	Free Drinks for Everyone!	true
+incidents_localised_description_dyn_dis_grudge_too_far_early_end	Seems like thanks to some large shipments of Bugman's Ale, courtesy of a mysterious patron, the Dwarfs have calm down... for now.	true
+incidents_localised_title_dyn_dis_pyramid_of_nagash_vampires_early_end	The Black Pyramid back to normal	true
+incidents_localised_description_dyn_dis_pyramid_of_nagash_vampires_early_end	The Black Pyramid seems to have return back to its normal state... for now.	true
+incidents_localised_title_dyn_dis_pyramid_of_nagash_tomb_kings_early_end	The Black Pyramid back to normal	true
+incidents_localised_description_dyn_dis_pyramid_of_nagash_tomb_kings_early_end	The Black Pyramid seems to have return back to its normal state... for now.	true
+incidents_localised_title_dyn_dis_vampires_rise_early_end	Vampire's Fall	true
+incidents_localised_description_dyn_dis_vampires_rise_early_end	After an unexpected reduction on the Winds of Magic, it seems the potential vampire thread has been reduced... for now.	true
+incidents_localised_title_dyn_dis_waaagh_early_end	Waaagh no more	true
+incidents_localised_description_dyn_dis_waaagh_early_end	As fast as it appeared, the Greatest Waaagh has been reduced to nothing. The Greenskins are back to their normal routine... for now.	true
+incidents_localised_title_dyn_dis_wild_hunt_early_end	The Forests Calm Down	true
+incidents_localised_description_dyn_dis_wild_hunt_early_end	The great pressure that came from the Great Forests of the world is gone... for now.	true
+incidents_localised_title_dyn_dis_aztec_invasion_early_end	Allucination!	true
+incidents_localised_description_dyn_dis_aztec_invasion_early_end	After waiting in fear, it seems those ships of stone were no more than a mere allucination. Trade has resume... for now.	true
+incidents_localised_title_dyn_dis_chaos_invasion_stage_2_trigger	The Great Chaos Invasion of our Age Begins!	true
+incidents_localised_description_dyn_dis_chaos_invasion_stage_2_trigger	The Old World despairs, for Archaon the Everchosen, Champion of Chaos, has come and with him the End Times!\\n\\nOnce a Templar Priest of Sigmar, Archaon uncovered a terrible secret which drove him to reject his faith and pledge himself to the Gods of Chaos. In their service, he has devoted himself to the world’s destruction, defeating all challengers and rising to a position of dominance over all in the Chaos Wastes, achieving the ultimate accolade - his dark coronation as the Everchosen; the vessel through which the Dark Gods unite their followers to turn the world into a Realm of Chaos. It is to his banner that the Warriors of Chaos have been flocking, and it is his malign will that now drives them forth in a terrible wave of destruction destined to sweep all before it.\\n\\nThe earth groans beneath the iron-shod feet of Archaon’s numberless horde, and with him comes death. Is there any champion of the Old World mighty enough to withstand the Lord of the End Times?	true
+incidents_localised_title_dyn_dis_chaos_invasion_stage_1_trigger	The Rise of Chaos	true
+incidents_localised_description_dyn_dis_chaos_invasion_stage_1_trigger	Dire tidings from the North!\\n\\nThe tendrils of Chaos writhe and reach out from the accursed wastes, tainting the land and sowing dissent. Their corrupt forces wax ever stronger, and now their agents are abroad, spreading the foul corruption of their malign Gods.\\n\\nOn their heels come bands of marauding warriors led by the most zealous of the Chaos Lords, eager to wreak destruction in the name of the Ruinous Powers. And all the while, ever more warriors flock to some focal point in the Chaos Wastes, a nexus of power which transcends their petty rivalries and impels them to join with the numberless horde.\\n\\nDoom approaches, and it is only in strength that any hope may be found!	true
+incidents_localised_title_dyn_dis_chaos_invasion_stage_early_warning	Chaos Stirs	true
+incidents_localised_description_dyn_dis_chaos_invasion_stage_early_warning	Storm clouds gather in the North. There are rumours that the barbarous tribes residing in the shadow of Chaos have ceased striving against each other for the attention of the Dark Gods and are instead banding together. Suckling at the teat of Chaos, the hordes grow in strength. It seems only a matter of time before the dam breaks and a tide of ruin bursts forth to engulf the Old World, corrupting or destroying all in its path.\\n\\nMarshal your strength, nurture the sinews of war, build your walls high, gather warriors to your banner and temper them in the crucible of battle, so that when the time comes you may yet weather the storm!	true
+incidents_localised_description_dyn_dis_chaos_invasion_great_vortex_undone	The Great Vortex, the vast magical maelstrom at the heart of the island-continent of Ulthuan, has been undone by the forces of Chaos! Without it, rifts to the chaos realms are opening all over the world!	true
+incidents_localised_title_dyn_dis_chaos_invasion_finish_before_stage_1	Chaos Receeds	true
+incidents_localised_description_dyn_dis_chaos_invasion_finish_before_stage_1	It seems whatever menace was uniting the northern tribes in the chaos wastes it's gone... for now.	true
+incidents_localised_title_dyn_dis_chaos_invasion_finish	An Age of Peace?	true
+incidents_localised_description_dyn_dis_chaos_invasion_finish	As the last of the Chaos hordes is scoured from the face of the world, an awful silence descends. More than a silence; an absence of sound which echoes the all-consuming void without. All creation is stilled, breath held in anticipation of the final cataclysm.\\n\\nThen, tentatively, gently, life reasserts itself. Not in a grand way to echo those who sought to end everything, but in the small ways which of themselves are life. Birdsong pierces the silence, hesitant at first, then swelling; a defiant hymn to creation, borne on a soft wind that sifts dust onto the scattered corpses littering the bloody plain of battle. And the spell is broken. Bloodied veterans, survivors, refugees - all draw breath into their aching lungs and weep at the taste and smell of victory, peace, and life.\\n\\nYet what is life if not the constant striving of one against the other? After all, every hedgerow is a bloody battleground, every plant a murderer, every creature red in tooth and claw. Even as the weak raise their eyes to a golden future, the wise are glancing about to see who will make the first move in seizing it for themselves. The shield of civilisation which turned aside the deadly thrust of Chaos is now a heavy and cumbersome thing. Those who are first to cast it aside will be quickest with their blades, and a knife in the back is surest of all. Comrades who stood shoulder-to-shoulder in the shield wall now step apart and take each other’s measure. Alliances begin to unravel and the storm clouds gather once more.	true
+mct_dyn_dis_chaos_invasion_enable	Enable "Chaos Invasion" disaster	true
+mct_dyn_dis_wild_hunt_enable_tooltip	Enable/Disable the "The Wild Hunt" disaster (Vanilla). \\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+missions_localised_title_dyn_dis_the_great_uprising_the_great_ascendancy_1	The Great Ascendancy	true
+missions_localised_description_dyn_dis_the_great_uprising_the_great_ascendancy_1	The Plan of the Skaven has been revealed. For their Great Ascendancy, the world will be turn to ruins! Would you be able to resist the onslaugh?	true
+effect_bundles_localised_description_fro_dyn_dis_chaos_invasion_global_effects	The Winds of Magic are flowing with an intensity not seen since the last of Ursun Roars.	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_stage_early_warning	Rumours say a new Champion of Chaos has appeared, deep in the Chaos Wastes.... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_stage_early_warning	Rumours of a Champion of Chaos	true
+effect_bundles_localised_title_dyn_dis_grudge_too_far_early_warning	Drums in the Deep	true
+effect_bundles_localised_description_dyn_dis_grudge_too_far_early_warning	The Dwarfs have begun to assemble their Throng for a war like no other... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_black_pyramid_early_warning	The Black Pyramid Trembles	true
+effect_bundles_localised_description_dyn_dis_black_pyramid_early_warning	The Black Pyramid has begun to tremble. Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_raiding_parties_early_warning	Black and Tattered Sails	true
+effect_bundles_localised_description_dyn_dis_raiding_parties_early_warning	Black sails have been spotted in the horizon. We don't know their target yet, but... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_the_great_uprising_early_warning	Secret Schemes	true
+effect_bundles_localised_description_dyn_dis_the_great_uprising_early_warning	Something is happening on the Under-Empire.... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_vampires_rise_early_warning	Death and Decay	true
+effect_bundles_localised_description_dyn_dis_vampires_rise_early_warning	Death and Decay covers the land like never before.... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_waaagh_early_warning	Da Greatest WAAAGH!	true
+effect_bundles_localised_description_dyn_dis_waaagh_early_warning	The hordes of Greenskins are assembling their Waaaghs.... Prepare for the worst.	true
+effect_bundles_localised_title_dyn_dis_wild_hunt_early_warning	The Hunters Prepare...	true
+effect_bundles_localised_description_dyn_dis_wild_hunt_early_warning	There is an ominous pressure coming from the Great Forests of the world.... Prepare for the worst.	true
+mct_dyn_dis_chaos_invasion_enable_rifts	Enable Chaos Rifts	true
+mct_dyn_dis_chaos_invasion_enable_rifts_tooltip	Enable/Disable the spawning of Chaos Rifts. \\n\\nChaos rifts are required for the later disaster stages, so if you disable them the disaster events will stop at stage two, after spawning all related armies to chaos factions.	true
+dilemmas_localised_title_dyn_dis_chaos_invasion_rift_dilemma_khorne	A Daemon Prince at sight!	true
+dilemmas_localised_description_dyn_dis_chaos_invasion_rift_dilemma_khorne	While traversing through the Realms of Chaos, your scouts bring news of a Khornate Horde lead by a Daemon Prince, deep into the Realm of the Blood God. You could ignore it and continue your journey, but... what kind of incredible weapons may this Daemon Prince posess? And are you strong enough to take him down? Whatever you do, remember: nobody comes back the same from a Realm of Chaos, if it even comes back.	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_khorneSCRIPTED_1	Attack the Daemon Prince	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_khorneSCRIPTED_2	Ignore It	true
+dilemmas_localised_title_dyn_dis_chaos_invasion_rift_dilemma_nurgle	A Daemon Prince at sight!	true
+dilemmas_localised_description_dyn_dis_chaos_invasion_rift_dilemma_nurgle	While traversing through the Realms of Chaos, your scouts bring news of a Nurglite Horde lead by a Daemon Prince, deep into the Realm of the Plague Lord. You could ignore it and continue your journey, but... what kind of incredible treasures may this Daemon Prince posess? And are you strong enough to take him down? Whatever you do, remember: nobody comes back the same from a Realm of Chaos, if it even comes back.	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_nurgleSCRIPTED_1	Attack the Daemon Prince	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_nurgleSCRIPTED_2	Ignore It	true
+dilemmas_localised_title_dyn_dis_chaos_invasion_rift_dilemma_slaanesh	A Daemon Prince at sight!	true
+dilemmas_localised_description_dyn_dis_chaos_invasion_rift_dilemma_slaanesh	While traversing through the Realms of Chaos, your scouts bring news of a Slaaneshi Horde lead by a Daemon Prince, deep into the Realm of the Dark Prince. You could ignore it and continue your journey, but... what kind of incredible treasures may this Daemon Prince posess? And are you strong enough to take him down? Whatever you do, remember: nobody comes back the same from a Realm of Chaos, if it even comes back.	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_slaaneshSCRIPTED_1	Attack the Daemon Prince	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_slaaneshSCRIPTED_2	Ignore It	true
+dilemmas_localised_title_dyn_dis_chaos_invasion_rift_dilemma_tzeentch	A Daemon Prince at sight!	true
+dilemmas_localised_description_dyn_dis_chaos_invasion_rift_dilemma_tzeentch	While traversing through the Realms of Chaos, your scouts bring news of a Tzeenchian Horde lead by a Daemon Prince, deep into the Realm of the Changer of Ways. You could ignore it and continue your journey, but... what kind of incredible treasures may this Daemon Prince posess? And are you strong enough to take him down? Whatever you do, remember: nobody comes back the same from a Realm of Chaos, if it even comes back.	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_tzeentchSCRIPTED_1	Attack the Daemon Prince	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_chaos_invasion_rift_dilemma_tzeentchSCRIPTED_2	Ignore It	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_rift_chance_of_reward_khorne	Treasures from the Realm of Khorne	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_rift_chance_of_reward_nurgle	Treasures from the Realm of Nurgle	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_rift_chance_of_reward_slaanesh	Treasures from the Realm of Slaanesh	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_rift_chance_of_reward_tzeentch	Treasures from the Realm of Tzeench	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_rift_chance_of_reward_khorne	You can find the bloodier weapons in the realm of the Blood God... but everything comes at a price.	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_rift_chance_of_reward_nurgle	You can find the most horrific diseases in the realm of the Plague Lord... but everything comes at a price.	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_rift_chance_of_reward_slaanesh	You can find the most pleasant surprises in the realm of the Dark Prince... but everything comes at a price.	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_rift_chance_of_reward_tzeentch	You can find the most interesting mysteries in the realm of the Changer of Ways... but everything comes at a price.	true
+incidents_localised_title_dyn_dis_chaos_invasion_great_vortex_undone	The Great Vortex Undone!	true
+missions_localised_title_dyn_dis_chaos_invasion_great_vortex_undone_1	The Restoration of the Great Vortex	true
+missions_localised_description_dyn_dis_chaos_invasion_great_vortex_undone_1	Without the Great Vortex, daemons of Chaos are free to roam through the whole world! Restore it before it's too late!	true
+effect_bundles_localised_title_dyn_dis_chaos_invasion_great_vortex_undone	The Great Vortex Undone	true
+effect_bundles_localised_description_dyn_dis_chaos_invasion_great_vortex_undone	Without the Great Vortex, there's nothing stopping the daemons of chaos from entering our world.	true
+effects_description_dyn_dis_chaos_invasion_great_vortex_undone_khorne	Khorne corruption: %+n	true
+effects_description_dyn_dis_chaos_invasion_great_vortex_undone_nurgle	Nurgle corruption: %+n	true
+effects_description_dyn_dis_chaos_invasion_great_vortex_undone_slaanesh	Slaanesh corruption: %+n	true
+effects_description_dyn_dis_chaos_invasion_great_vortex_undone_tzeench	Tzeentch corruption: %+n	true
+mct_dyn_dis_realm_divided_enable	Enable "Realm Divided" disaster	true
+mct_dyn_dis_realm_divided_enable_tooltip	Enable/Disable the "Realm Divided" disaster.\\n\\nYour uncontrolled expansion within Grand Cathay is unaceptable. By Decree of the Dragon Emperor, you shall surrender your provinces, your armies and your riches to the Emperor. Will you even accept that?\\n\\nSafe to disable mid-campaign as long as it hasn't trigger yet.	true
+incidents_localised_title_dyn_dis_realm_divided_trigger	A Realm Divided!	true
+incidents_localised_description_dyn_dis_realm_divided_trigger	A messenger has arrived from Wei-Jin with a message, directly from the Dragon Emperor:\\n\\n"Your uncontrolled expansion within Grand Cathay has gone too far.\\n\\nBy Decree of the Dragon Emperor, your ambitions shall be crushed, your cities returned to the Emperor, and your riches returned to Grand Cathay."\\n\\nAfter deliverating for some time, you give a message back to the messenger:\\n\\n"By My Decree, Grand Cathay must be surrendered to me. It's cities shall be mine, it's riches shall be mine."\\n\\nThe war has begun.	true
+incidents_button_text_dyn_dis_realm_divided_trigger	So war it is.	true
+missions_localised_title_dyn_dis_realm_divided_united_we_stand_1	Grand Cathay shall be mine!	true
+missions_localised_description_dyn_dis_realm_divided_united_we_stand_1	And no other shall rule over me!	true
+missions_localised_title_dyn_dis_realm_divided_united_we_stand_2	Submit or Die	true
+missions_localised_description_dyn_dis_realm_divided_united_we_stand_2	My enemies have but one choice: submit to my rule, or die.	true
+incidents_localised_title_dyn_dis_chaos_invasion_great_vortex_undone_cancel	The Great Vortex Restored!	true
+incidents_localised_description_dyn_dis_chaos_invasion_great_vortex_undone_cancel	It seems someone sane has managed to retake the inner regions of Ulthuan and restore the Vortex! While the chaos invasion is still in full swing, the vortex strength should block any new rifts outside the Chaos Wastes.	true
+dilemmas_localised_description_dyn_dis_realm_divided_confederation_dilemma	After the last battle, whats left of your enemies is in front of you. Their leader, found barely alive a top a pile of corpses, kneels before your blade. But before you cut his head, it speaks: "Forgive my live, and it'll be yours to command". What do you decide? Would you confederate {{CcoCampaignEventDilemma:FirstTargetFactionNameWithIcon}}, or will you end it's life here?	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_realm_divided_confederation_dilemmaSCRIPTED_1	You're forgiven.	true
+cdir_events_dilemma_choice_details_localised_choice_label_dyn_dis_realm_divided_confederation_dilemmaSCRIPTED_2	The Dragon Emperor is mercyful. I'm not.	true
+dilemmas_localised_title_dyn_dis_realm_divided_confederation_dilemma	The Choice: Servitude or Death	true
+mct_dyn_dis_automatic_difficulty_enable	Enable Automatic Difficulty	true
+mct_dyn_dis_automatic_difficulty_enable_tooltip	Enabling this will change the disaster difficulty based on campaign difficulty. This disables the difficulty multipiers of each disaster and the max concurrent disasters selector.	true
+mct_dyn_dis_the_vermintide_enable	Enable "The Vermintide" disaster	true
+mct_dyn_dis_the_vermintide_enable_tooltip	Enable/Disable the "The Vermintide" disaster.\\n\\nThirteen times thirteen passes of the Chaos moon I will give you. Thirteen times thirteen moons I will wait. Go to your legions and your workshops! Bring me victory. Bring me dominance over this mortal realm! You must be as one, work as one, as single-minded as a swarm pouring from a sewer-pipe -- all rats scurry-flood in same direction. Only then will you inherit the ruins of this world, only then will you rule. Thirteen times thirteen moons! Fail, and all will suffer the fate of the seer.\\n\\nSafe to disable mid-campaign, but if you received at least the first warning, the disaster will not stop.	true
+incidents_localised_title_dyn_dis_vermintide_stage_1_trigger	The Under-Empire strikes back!	true
+incidents_localised_title_dyn_dis_vermintide_stage_2_trigger	The Empires under attack!	true
+incidents_localised_title_dyn_dis_vermintide_stage_3_trigger	The Great Lustrian War has begun!	true
+incidents_localised_title_dyn_dis_vermintide_stage_4_trigger	The Karaz Ankor besieged!	true
+incidents_localised_title_dyn_dis_vermintide_stage_5_trigger	Karaz-a-Karak besieged!	true
+incidents_localised_description_dyn_dis_vermintide_stage_1_trigger	As news of hordes of Skaven (they do exists!) running wild over Estalia and Tilea reached us, we found new information: Morrslieb is not bigger, is closer! And it's already affecting the winds of magic all around the world!	true
+incidents_localised_description_dyn_dis_vermintide_stage_2_trigger	The Skaven are a secret no more! Hordes are pouring into the Empire, the northern coast of Arabia, and even the hearthlands of Grand Cathay!	true
+incidents_localised_description_dyn_dis_vermintide_stage_3_trigger	The Great Trans-oceanic Intercontinental Tunnels have been repaired. The Skaven hordes have arrived to Lustria. The Great Lustrian War has begun!	true
+incidents_localised_description_dyn_dis_vermintide_stage_4_trigger	The Karaz Ankor, the great network of dwarven Karaks spanning across the whole old World, is under siege by all sides by hordes of Skaven!	true
+incidents_localised_description_dyn_dis_vermintide_stage_5_trigger	Karaz-a-Karak, the ancestral home of the Dawi, is under siege by hordes and hordes of Skaven! May this be the end of the Dawi?	true
+effect_bundles_localised_description_dyn_dis_vermintide_global_effects	Morrslieb, The Green Moon, is closer than ever, nobody knows why. But the effects of being so close to that accursed moon are already showing around the world.	true
+effect_bundles_localised_title_dyn_dis_vermintide_global_effects	The Green Shine of Morrslieb	true
+incidents_localised_title_dyn_dis_vermintide_finish_before_stage_1	The Skaven menace is no more!	true
+incidents_localised_title_dyn_dis_vermintide_finish	Morrslieb recedes!	true
+incidents_localised_description_dyn_dis_vermintide_finish_before_stage_1	Morrslieb seems to have gone back to its normal size. It seems we will never know what caused such phenomenom.	true
+incidents_localised_description_dyn_dis_vermintide_finish	After all that destruction, Morrslieb has returned to its natural orbit.	true
+missions_localised_title_dyn_dis_the_vermintide_the_vermintide_1	The Vermintide	true
+missions_localised_description_dyn_dis_the_vermintide_the_vermintide_1	The Plan of the Skaven has been revealed. For their Great Ascendancy, the world will be turn to ruins! Would you be able to resist the onslaugh?	true
+effect_bundles_localised_title_dyn_dis_vermintide_early_warning	Secret Schemes	true
+effect_bundles_localised_description_dyn_dis_vermintide_early_warning	Something is happening on the Under-Empire.... Prepare for the worst.	true
+mct_dyn_dis_max_total_endgames	Max Total Endgames per Campaign	true
+mct_dyn_dis_max_total_endgames_tooltip	Maximum amount of endgames allowed for the duration of a Campaign.	true
+mct_dyn_dis_skaven_incursions_enable	Enable "Skaven Incursions" disaster	true
+mct_dyn_dis_skaven_incursions_enable_tooltip	Enable/Disable the "Skaven Incursions" disaster.\\n\\nRumours say there are cities of man-sized rats under our cities, and that in times of abundance of food, their expansion becomes uncontrollable. And it's those rumours that brough you here. Any last words before this Witch Hunter puts a bullet in that rat-sized head of yours?	true
+mct_dyn_dis_skaven_incursions_critical_mass	Critical Mass	true
+mct_dyn_dis_skaven_incursions_critical_mass_tooltip	Amount of Under-Empire expansions allowed before rats come to the surface.	true
